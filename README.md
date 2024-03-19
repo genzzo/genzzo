@@ -1,7 +1,4 @@
 <h2 align="left">Hey it's me</h2>
-
-###
-
 <p align="left">I like to code stuff</p>
 
 ###
