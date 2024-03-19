@@ -33,6 +33,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/genzzo/genzzo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/genzzo/genzzo/output/snake.svg" width="100%" alt="Snake animation" />
 
 ###
