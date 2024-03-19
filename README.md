@@ -3,23 +3,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="8%" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="7.8%" alt="typescript logo"  />
   <img width="3%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="8%" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="7.8%" alt="react logo"  />
   <img width="3%" />
-  <img src="https://cdn.simpleicons.org/solidity/363636" width="8%" alt="solidity logo"  />
+  <img src="https://cdn.simpleicons.org/solidity/363636" width="7.8%" alt="solidity logo"  />
   <img width="3%" />
-  <img src="https://skillicons.dev/icons?i=aws" width="8%" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" width="7.8%" alt="amazonwebservices logo"  />
   <img width="3%" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="8%" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="7.8%" alt="nextjs logo"  />
   <img width="3%" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="8%" alt="nestjs logo"  />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="7.8%" alt="nestjs logo"  />
   <img width="3%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="8%" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="7.8%" alt="flutter logo"  />
   <img width="3%" />
-  <img src="https://skillicons.dev/icons?i=rust" width="8%" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" width="7.8%" alt="rust logo"  />
   <img width="3%" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="8%" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="7.8%" alt="python logo"  />
 </div>
 
 ###
