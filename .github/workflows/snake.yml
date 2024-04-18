@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: ArthurLobopro/snk@v0
+        uses: ArthurLobopro/snk/svg-only@v0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark&hide_stack=true
